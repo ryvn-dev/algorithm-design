@@ -1,2 +1,3 @@
-# ds_implementation
-Implementation of some crucial (advanced) data structures.
+# DS-ALGO
+
+Implementation of some crucial (advanced) data structures and algorithm. 
