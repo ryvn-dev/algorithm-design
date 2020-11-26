@@ -1,3 +1,5 @@
-# DS-ALGO
+# Data Structures and Algorithm Design
 
-Implementation of some crucial (advanced) data structures and algorithm. 
+The current repository includes my DSA cources homeworks and my implementations of some advanced DSA in these years.
+
+(updating...)
