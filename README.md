@@ -8,7 +8,7 @@ A Bézier curve is defined by a set of control points $p_0$ through $p_n$ , wher
 
 ## Optimal Wiring Topology for Electromigration Avoidance
 
-Given a set $S = \{s_1, s_2, …, s_m\}$ of m current sources, a set $T = \{t_1, t_2, …, t_n\}$ of n current sinks, each current source $i$ (sink $j$) is associated with its flow $f_s_i(f_t_j)$ construct a wiring topology to connect all current sources and sinks in $S+T$, such that the total wire area is minimized and electromigration is avoided.
+Given a set $S = \{s_1, s_2, …, s_m\}$ of m current sources, a set $T = \{t_1, t_2, …, t_n\}$ of n current sinks, each current source $i$ (sink $j$) is associated with its flow $f_{s_i}(f_{t_j})$ construct a wiring topology to connect all current sources and sinks in $S+T$, such that the total wire area is minimized and electromigration is avoided.
 
 I adopted Bellman-Ford and Dijkstra approach to realize the implementation.
 
