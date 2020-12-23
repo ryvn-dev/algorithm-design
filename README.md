@@ -18,7 +18,7 @@ For more information, please see [1] and [2].
 
 [2] Jing Wei Lin, Tsung Yi Ho, and Iris Hui Ru Jiang, “Reliability driven power/ground routing for analog ICs,” *ACM Transactions on Design Automation of Electronic Systems (TODAES) TODAES)*, vol. 17, no. 1, Jan. 2012, pp. 6:1 6:26.
 
-## Electric Transpotation Interection Manager
+## Electric Transpotation Intersection Manager
 
 I adopted a greedy approach by 3 heuristics due to pragmatic concerns.
 
