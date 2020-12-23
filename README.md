@@ -1,6 +1,6 @@
 # Algorithm Design
 
-The current repository includes my homeworks and implementations in the course of **Algorithm Design** lectured by HUI-RU JIANG in National Taiwan University. The projects materialized by me are Bezier Curve, Optimal Wiring Topology for Electromigration Avoidance, and Electric Transpotation Interection Manager.
+The current repository includes my homeworks and implementations in the course of **Algorithm Design** [NTUEE4033] lectured by HUI-RU JIANG in National Taiwan University. The projects materialized by me are Bezier Curve, Optimal Wiring Topology for Electromigration Avoidance, and Electric Transpotation Interection Manager.
 
 ## Bezier Curve
 
